@@ -1,5 +1,11 @@
 # 📘 Special School DataHub  
 
+**Location:** Tamil Nadu, India  
+**Email:** [webgi215.official@gmail.com](mailto:webgi215.official@gmail.com)  
+**Website:** [webdevglobalinnovation.vercel.app](https://webdevglobalinnovation.vercel.app)
+
+---
+
 **Purpose:**  
 The **Special School DataHub** is a centralized platform tailored for special education schools to manage students, staff, and assessments effectively. This comprehensive system bridges communication between **admins**, **staff**, and **parents**, enabling seamless tracking and management of student progress across various domains.  
 
@@ -126,22 +132,47 @@ Parents are given access to the platform to stay informed about their child’s 
 
 ---
 
+## 👥 Project Collaborators  
+
+- **Baskaran M S** - Developer  
+- **Mohamed Ashif** - Developer  
+
+---
+
 ## 🖼️ Snapshots  
 
-### **Admin Dashboard**  
-*(Insert Screenshot for Admin Dashboard with analytics)*  
+  ![User Management](assets/screenshots/1.png)
+  [User Management](assets/screenshots/2.png)
+  [User Management](assets/screenshots/3.png)
+  [User Management](assets/screenshots/4.png)
+  ![User Management](assets/screenshots/5.png)
+  ![User Management](assets/screenshots/6.png)
+  [User Management](assets/screenshots/7.png)
+  [User Management](assets/screenshots/8.png)
+  [User Management](assests/screenshots/9.png)
+  ![User Management](assets/screenshots/10.png)
+  ![User Management](assets/screenshots/11.png)
+  [User Management](assets/screenshots/12.png)
+  [User Management](assets/screenshots/13.png)
+  [User Management](assets/screenshots/14.png)
+  ![User Management](assets/screenshots/15.png)
+  ![User Management](assets/screenshots/16.png)
+  [User Management](assets/screenshots/17.png)
+  [User Management](assets/screenshots/18.png)
+  [User Management](assets/screenshots/19.png)
+  ![User Management](assets/screenshots/20.png)
+  ![User Management](assets/screenshots/21.png)
+  [User Management](assets/screenshots/22.png)
+  [User Management](assets/screenshots/23.png)
+  [User Management](assets/screenshots/24.png)
+  ![User Management](assets/screenshots/25.png)
+  ![User Management](assets/screenshots/26.png)
+  [User Management](assets/screenshots/27.png)
+  [User Management](assets/screenshots/28.png)
+  [User Management](assets/screenshots/29.png)
+  ![User Management](assets/screenshots/30.png)
+  ![User Management](assets/screenshots/31.png)
 
-### **Assessment Management**  
-*(Insert Screenshot for Creating and Editing Assessments)*  
-
-### **Student Profiles**  
-*(Insert Screenshot for Viewing Student Details and Progress)*  
-
-### **Staff Workspace**  
-*(Insert Screenshot for Staff Dashboard and Assessment Execution)*  
-
-### **Parent Portal**  
-*(Insert Screenshot for Student Performance Reports and Staff Reviews)*  
 
 ---
 
