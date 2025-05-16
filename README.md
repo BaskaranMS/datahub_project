@@ -1,8 +1,7 @@
 # 📘 Special School DataHub  
 
 **Location:** Tamil Nadu, India  
-**Email:** [webgi215.official@gmail.com](mailto:webgi215.official@gmail.com)  
-**Website:** [webdevglobalinnovation.vercel.app](https://webdevglobalinnovation.vercel.app)
+**Email:** [official.ms.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com)  
 
 ---
 
